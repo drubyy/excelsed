@@ -1,4 +1,8 @@
 # excelsed
+## What
+Excelsed help you replace text in your xlsx file without change any format like font style, underline, strikethrough, color,...etc or lost image.
+
+## Usage
 Just require gem and use
 
 ```
